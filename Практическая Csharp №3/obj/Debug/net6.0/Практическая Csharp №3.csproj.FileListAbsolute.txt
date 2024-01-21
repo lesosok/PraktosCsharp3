@@ -1,0 +1,14 @@
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\bin\Debug\net6.0\Практическая Csharp №3.exe
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\bin\Debug\net6.0\Практическая Csharp №3.deps.json
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\bin\Debug\net6.0\Практическая Csharp №3.runtimeconfig.json
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\bin\Debug\net6.0\Практическая Csharp №3.dll
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\bin\Debug\net6.0\Практическая Csharp №3.pdb
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\obj\Debug\net6.0\Практическая Csharp №3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\obj\Debug\net6.0\Практическая Csharp №3.AssemblyInfoInputs.cache
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\obj\Debug\net6.0\Практическая Csharp №3.AssemblyInfo.cs
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\obj\Debug\net6.0\Практическая Csharp №3.csproj.CoreCompileInputs.cache
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\obj\Debug\net6.0\Практическая Csharp №3.dll
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\obj\Debug\net6.0\refint\Практическая Csharp №3.dll
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\obj\Debug\net6.0\Практическая Csharp №3.pdb
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\obj\Debug\net6.0\Практическая Csharp №3.genruntimeconfig.cache
+C:\Users\Leefaut\source\repos\Практическая Csharp №3\Практическая Csharp №3\obj\Debug\net6.0\ref\Практическая Csharp №3.dll
